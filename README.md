@@ -1,4 +1,4 @@
-# ==== Rust in Docker
+# Rust in Docker
 
 
 ## Install rust, compile, run
